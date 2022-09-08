@@ -1,1 +1,2 @@
-# MYSQL-Project-2-JumpPro
+# MYSQL-Projects-JumpPro
+Sql Files for each Project.
